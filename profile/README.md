@@ -6,12 +6,10 @@ Eniem is a developer toolkit that gives you everything you need to go from idea 
 
 ### What's inside
 
-- **eniem** — The core monorepo: boilerplate, docs, and CLI
-- **eniem-boilerplate** — Production-ready starter code
-- **eniem-starters** — Example apps for specific use cases
-- **eniem-cli** — Command-line tool to scaffold and manage projects
-- **eniem-doc** — Documentation
+- **eniem-boilerplate** — Production-ready starter code to get you up and running
+- **eniem-starters** — Example applications for specific use cases
 
 ### Links
 
 - [eniem.dev](https://eniem.dev)
+- [docs.eniem.dev](https://docs.eniem.dev)
